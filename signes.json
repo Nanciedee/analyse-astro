@@ -1,158 +1,62 @@
 {
   "belier": {
     "titre": "Bélier ♈",
-    "mots_cles": [],
-    "(21 mars - 19 avril) : Signe de feu, il symbolise le renouveau, l'impulsion, le courage et l'énergie d'action.Le Bélier, c’est le premier.
-
-Premier à agir, premier à se lever, premier à dire : « On y va ! »
-
-Signe de feu, il incarne l’élan, l’impulsion, le courage brut. Avec lui, pas de tergiversations : on passe à l’action.
-
-Le Bélier pense vite, agit fort, et déteste perdre du temps. Il est entier, généreux, passionné… et souvent un peu impatient. Ce n’est pas de l’inconscience, mais une confiance profonde dans la vie et dans sa propre capacité à rebondir.
-
-Ce sont des personnes qui foncent avec le cœur, qui aiment les défis, et qui n’ont pas peur de se brûler un peu en chemin. Leur énergie est contagieuse, leur audace inspirante. On peut toujours compter sur un Bélier pour ouvrir une voie, prendre une initiative, ou assumer un choix sans détour. Il a ce petit quelque chose de pionnier, de leader — même sans le chercher.
-
-Mais comme tout signe, il a ses zones d’ombre.
-
-Le Bélier peut être impulsif, impatient, et parfois trop centré sur lui-même. Il oublie parfois de consulter les autres avant de foncer… ce qui peut créer des étincelles.
-
-Bref, le Bélier, c’est la flamme qui allume le moteur. Le coup de départ. Celui qui dit «on y va!» quand les autres hésitent encore. Mais attention : n’essayez pas de le retenir. Le Bélier a besoin d’avancer, de foncer, de vivre à pleine vitesse. Et il avancera. Avec ou sans vous.": ""
+    "mots_cles": ["Renouveau", "Impulsion", "Courage", "Action", "Leader"],
+    "texte_detaille": "(21 mars - 19 avril) : Signe de feu, il symbolise le renouveau, l'impulsion, le courage et l'énergie d'action.\\n\\nLe Bélier, c’est le premier.\\n\\nPremier à agir, premier à se lever, premier à dire : « On y va ! »\\n\\nSigne de feu, il incarne l’élan, l’impulsion, le courage brut. Avec lui, pas de tergiversations : on passe à l’action.\\n\\nLe Bélier pense vite, agit fort, et déteste perdre du temps. Il est entier, généreux, passionné… et souvent un peu impatient. Ce n’est pas de l’inconscience, mais une confiance profonde dans la vie et dans sa propre capacité à rebondir.\\n\\nCe sont des personnes qui foncent avec le cœur, qui aiment les défis, et qui n’ont pas peur de se brûler un peu en chemin. Leur énergie est contagieuse, leur audace inspirante. On peut toujours compter un Bélier pour ouvrir une voie, prendre une initiative, ou assumer un choix sans détour. Il a ce petit quelque chose de pionnier, de leader — même sans le chercher.\\n\\nMais comme tout signe, il a ses zones d’ombre.\\n\\nLe Bélier peut être impulsif, impatient, et parfois trop centré sur lui-même. Il oublie parfois de consulter les autres avant de foncer… ce qui peut créer des étincelles.\\n\\nBref, le Bélier, c’est la flamme qui allume le moteur. Le coup de départ. Celui qui dit «on y va!» quand les autres hésitent encore. Mais attention : n’essayez pas de le retenir. Le Bélier a besoin d’avancer, de foncer, de vivre à pleine vitesse. Et il avancera. Avec ou sans vous."
   },
   "taureau": {
     "titre": "Taureau ♉",
-    "mots_cles": [],
-    "(20 avril - 20 mai) : Signe de terre, il représente la stabilité, la sensualité, la loyauté et le besoin de sécurité.Le Taureau, c’est la Terre.
-
-Solide, rassurant, enraciné. Il avance lentement, mais sûrement. Il observe, il réfléchit, et quand il décide de bouger… rien ne peut l’arrêter.
-
-On le dit têtu - et c’est vrai. Mais ce n’est pas de l’obstination gratuite : le Taureau a besoin de comprendre par lui-même. Il ne se laisse pas brusquer, et il n’aime pas qu’on lui impose un rythme qui n’est pas le sien.
-
-Ce signe incarne la stabilité, la constance, le pragmatisme… et un amour profond pour les plaisirs simples et sensoriels. Il aime ce qui est vrai, tangible, durable. Il construit, il accumule, il sécurise. Et il a ce talent naturel pour créer du confort autour de lui, avec goût et subtilité.Alors oui, parfois, il est un peu lent à la détente. Mais une fois lancé, le Taureau devient une puissante force tranquille. Avec lui, on construit. On s’enracine. On savoure. Et surtout… on apprend que la lenteur est une forme de puissance.": ""
+    "mots_cles": ["Stabilité", "Sensualité", "Loyauté", "Sécurité", "Patience"],
+    "texte_detaille": "(20 avril - 20 mai) : Signe de terre, il représente la stabilité, la sensualité, la loyauté et le besoin de sécurité.\\n\\nLe Taureau, c’est la Terre.\\n\\nSolide, rassurant, enraciné. Il avance lentement, mais sûrement. Il observe, il réfléchit, et quand il décide de bouger… rien ne peut l’arrêter.\\n\\nOn le dit têtu - et c’est vrai. Mais ce n’est pas de l’obstination gratuite : le Taureau a besoin de comprendre par lui-même. Il ne se laisse pas brusquer, et il n’aime pas qu’on lui impose un rythme qui n’est pas le sien.\\n\\nCe signe incarne la stabilité, la constance, le pragmatisme… et un amour profond pour les plaisirs simples et sensoriels. Il aime ce qui est vrai, tangible, durable. Il construit, il accumule, il sécurise. Et il a ce talent naturel pour créer du confort autour de lui, avec goût et subtilité.\\n\\nAlors oui, parfois, il est un peu lent à la détente. Mais une fois lancé, le Taureau devient une puissante force tranquille. Avec lui, on construit. On s’enracine. On savoure. Et surtout… on apprend que la lenteur est une forme de puissance."
   },
   "gmeaux": {
     "titre": "Gémeaux ♊",
-    "mots_cles": [],
-    "(21 mai - 20 juin) : Signe d'air, il incarne la curiosité, la dualité, la communication et la grande adaptabilité. Vif, curieux et toujours en mouvement, le Gémeaux explore le monde avec légèreté et intelligence. Signe d’Air gouverné par Mercure, il capte les idées, les émotions et les conversations comme personne. Portrait d’un signe qui ne tient jamais en place. Les Gémeaux, c’est le mouvement perpétuel. Ça virevolte, ça questionne, ça explore. Ce signe d’Air gouverné par Mercure incarne l’intelligence vive, la curiosité sans fond et l’envie de tout comprendre, tout dire, tout vivre.
-
-Avec un Gémeaux, on ne s’ennuie jamais. Bavard lumineux, improvisateur né, il passe d’un sujet à l’autre avec une aisance déconcertante. Il a ce don rare: capter l’attention… et la faire danser.
-
-C’est un signe double, et cela se ressent. Un jour ici, un jour là. Un jour joyeux, un jour fuyant. Mais toujours léger, même dans la profondeur.
-    
-    Avec un Gémeaux, on ne sait jamais exactement où on va… mais on y va dans la joie, et avec une bonne playlist!": ""
+    "mots_cles": ["Curiosité", "Dualité", "Communication", "Adaptabilité", "Intelligence"],
+    "texte_detaille": "(21 mai - 20 juin) : Signe d'air, il incarne la curiosité, la dualité, la communication et la grande adaptabilité. Vif, curieux et toujours en mouvement, le Gémeaux explore le monde avec légèreté et intelligence. Signe d’Air gouverné par Mercure, il capte les idées, les émotions et les conversations comme personne. Portrait d’un signe qui ne tient jamais en place.\\n\\nLes Gémeaux, c’est le mouvement perpétuel. Ça virevolte, ça questionne, ça explore. Ce signe d’Air gouverné par Mercure incarne l’intelligence vive, la curiosité sans fond et l’envie de tout comprendre, tout dire, tout vivre.\\n\\nAvec un Gémeaux, on ne s’ennuie jamais. Bavard lumineux, improvisateur né, il passe d’un sujet à l’autre avec une aisance déconcertante. Il a ce don rare: capter l’attention… et la faire danser.\\n\\nC’est un signe double, et cela se ressent. Un jour ici, un jour là. Un jour joyeux, un jour fuyant. Mais toujours léger, même dans la profondeur.\\n\\nAvec un Gémeaux, on ne sait jamais exactement où on va… mais on y va dans la joie, et avec une bonne playlist!"
   },
   "cancer": {
     "titre": "Cancer ♋",
-    "mots_cles": [],
-    "(21 juin - 22 juillet) : Signe d'eau, il est lié à l'émotion, l'intuition, la sensibilité, la protection et l'attachement au foyer.Le Cancer, c’est l’intuition à fleur de peau, la tendresse en armure, le cœur qui bat pour les siens. Sous sa carapace, il cache un monde riche en émotions, en souvenirs, en attachements profonds. Portrait d’un signe qui fait de la douceur une force. 
-    Le Cancer, c’est celui qui parle avec le cœur.
-
-Son attachement à la famille, aux émotions et aux souvenirs est profond, parfois même intense, voire possessif. Signe d’eau gouverné par la Lune, il incarne la mémoire, la douceur, la sensualité… et cette sensibilité qui le rend si humain.
-
-Mais derrière cette tendresse se cache une carapace. Le Cancer se protège, surtout lorsqu’il a été blessé. Il ressent tout - même ce que les autres taisent. Et quand il a peur, il se referme, attend que la tempête passe, et ne se montre à nouveau que lorsqu’il se sent en sécurité.
-
-Il aime prendre soin. De ses proches, de ses souvenirs, de son petit monde. Mais attention : s’il se sent trahi, il ne pardonne pas facilement. Sa confiance est précieuse, et une fois brisée, elle laisse des traces. 
-    Le Cancer, c’est la tendresse du zodiaque. Et parfois, juste ça… c’est déjà une force immense.": ""
+    "mots_cles": ["Émotion", "Intuition", "Sensibilité", "Protection", "Foyer"],
+    "texte_detaille": "(21 juin - 22 juillet) : Signe d'eau, il est lié à l'émotion, l'intuition, la sensibilité, la protection et l'attachement au foyer.\\n\\nLe Cancer, c’est l’intuition à fleur de peau, la tendresse en armure, le cœur qui bat pour les siens. Sous sa carapace, il cache un monde riche en émotions, en souvenirs, en attachements profonds. Portrait d’un signe qui fait de la douceur une force.\\n\\nLe Cancer, c’est celui qui parle avec le cœur.\\n\\nSon attachement à la famille, aux émotions et aux souvenirs est profond, parfois même intense, voire possessif. Signe d’eau gouverné par la Lune, il incarne la mémoire, la douceur, la sensualité… et cette sensibilité qui le rend si humain.\\n\\nMais derrière cette tendresse se cache une carapace. Le Cancer se protège, surtout lorsqu’il a été blessé. Il ressent tout - même ce que les autres taisent. Et quand il a peur, il se referme, attend que la tempête passe, et ne se montre à nouveau que lorsqu’il se sent en sécurité.\\n\\nIl aime prendre soin. De ses proches, de ses souvenirs, de son petit monde. Mais attention : s’il se sent trahi, il ne pardonne pas facilement. Sa confiance est précieuse, et une fois brisée, elle laisse des traces.\\n\\nLe Cancer, c’est la tendresse du zodiaque. Et parfois, juste ça… c’est déjà une force immense."
   },
   "lion": {
     "titre": "Lion ♌",
-    "mots_cles": [],
-    "(23 juillet - 22 août) : Signe de feu, il exprime la confiance en soi, la générosité, le leadership, la chaleur humaine et le rayonnement. Rayonnant, charismatique et passionné, le Lion attire naturellement les regards. Signe de Feu gouverné par le Soleil, il incarne la chaleur, la générosité et le leadership. Portrait d’un signe qui brille sans jamais écraser. 
-    Le Lion, c’est l’entrée remarquée. Quand il entre dans une pièce, on le remarque - non pas parce qu’il fait du bruit, mais parce qu’il rayonne. Signe de Feu gouverné par le Soleil, il incarne la lumière, la chaleur et le charisme.
-
-Le Lion a besoin d’aimer… et d’être aimé. Mais pas d’une admiration superficielle: il cherche à être vu pour ce qu’il est vraiment. Fier, généreux, chaleureux, il possède une prestance naturelle qui donne envie de le suivre. Mais son talon d’Achille, c’est l’orgueil. Il peut être susceptible, mal vivre la critique… car au fond, il veut briller sans écraser, partager sa lumière et faire sentir les autres importants à ses côtés. 
-Le Lion, c’est le roi du zodiaque… mais un roi au cœur immense, qui veut faire briller les autres autant que lui.": ""
+    "mots_cles": ["Confiance", "Générosité", "Leadership", "Chaleur", "Rayonnement"],
+    "texte_detaille": "(23 juillet - 22 août) : Signe de feu, il exprime la confiance en soi, la générosité, le leadership, la chaleur humaine et le rayonnement. Rayonnant, charismatique et passionné, le Lion attire naturellement les regards. Signe de Feu gouverné par le Soleil, il incarne la chaleur, la générosité et le leadership. Portrait d’un signe qui brille sans jamais écraser.\\n\\nLe Lion, c’est l’entrée remarquée. Quand il entre dans une pièce, on le remarque - non pas parce qu’il fait du bruit, mais parce qu’il rayonne. Signe de Feu gouverné par le Soleil, il incarne la lumière, la chaleur et le charisme.\\n\\nLe Lion a besoin d’aimer… et d’être aimé. Mais pas d’une admiration superficielle: il cherche à être vu pour ce qu’il est vraiment. Fier, généreux, chaleureux, il possède une prestance naturelle qui donne envie de le suivre. Mais son talon d’Achille, c’est l’orgueil. Il peut être susceptible, mal vivre la critique… car au fond, il veut briller sans écraser, partager sa lumière et faire sentir les autres importants à ses côtés.\\n\\nLe Lion, c’est le roi du zodiaque… mais un roi au cœur immense, qui veut faire briller les autres autant que lui."
   },
   "vierge": {
     "titre": "Vierge ♍",
-    "mots_cles": [],
-    "(23 août - 22 septembre) : Signe de terre, il symbolise l'analyse, le sens du détail, la méthode, la modestie et le sens du service.Souvent discrète, la Vierge passe sous le radar… mais c’est elle qui garde le monde en ordre. Structurée, précise, méthodique, elle observe et analyse avec une finesse rare. Derrière son calme apparent se cache une sensibilité profonde et une exigence envers elle-même. Portrait d’un signe qui cherche le sens dans chaque détail. 
-    La Vierge est souvent sous-estimée. Discrète, précise, structurée, elle ne cherche pas les projecteurs… mais elle tient le monde en ordre. Signe de Terre gouverné par Mercure, elle observe, analyse, trie, classe. Elle est perfectionniste — non pas pour contrôler, mais pour comprendre et créer un environnement cohérent.
-
-Elle aime que les choses aient un sens. Le flou, le brouillon, l’à-peu-près la dérangent profondément. Mais attention : ce n’est pas un robot sans émotion. Elle ressent intensément… elle cache simplement bien ses états d’âme. 
-    Bref, la Vierge, c’est l’intelligence pratique, le soin du détail, et la beauté dans toute sa simplicité.": ""
+    "mots_cles": ["Analyse", "Méthode", "Modestie", "Service", "Perfectionnisme"],
+    "texte_detaille": "(23 août - 22 septembre) : Signe de terre, il symbolise l'analyse, le sens du détail, la méthode, la modestie et le sens du service. Souvent discrète, la Vierge passe sous le radar… mais c’est elle qui garde le monde en ordre. Structurée, précise, méthodique, elle observe et analyse avec une finesse rare. Derrière son calme apparent se cache une sensibilité profonde et une exigence envers elle-même. Portrait d’un signe qui cherche le sens dans chaque détail.\\n\\nLa Vierge est souvent sous-estimée. Discrète, précise, structurée, elle ne cherche pas les projecteurs… mais elle tient le monde en ordre. Signe de Terre gouverné par Mercure, elle observe, analyse, trie, classe. Elle est perfectionniste — non pas pour contrôler, mais pour comprendre et créer un environnement cohérent.\\n\\nElle aime que les choses aient un sens. Le flou, le brouillon, l’à-peu-près la dérangent profondément. Mais attention : ce n’est pas un robot sans émotion. Elle ressent intensément… elle cache simplement bien ses états d’âme.\\n\\nBref, la Vierge, c’est l’intelligence pratique, le soin du détail, et la beauté dans toute sa simplicité."
   },
   "balance": {
     "titre": "Balance ⚖️",
-    "mots_cles": [],
-    "(23 septembre - 22 octobre) : Signe d'air, il reflète l'équilibre, la recherche de justice, la diplomatie et le goût pour l'harmonie esthétique.
-    Élégante, raffinée et profondément attachée à l’harmonie, la Balance cherche l’équilibre dans tous les aspects de sa vie. Signe d’Air gouverné par Vénus, elle charme autant qu’elle apaise. Portrait d’un signe qui fait danser le cœur et la raison.
-    
-    La Balance est un signe d’élégance et de raffinement. Charmeuse et sensuelle, elle incarne l’art de l’équilibre entre le cœur et la raison. Signe d’Air gouverné par Vénus, elle est en quête constante d’harmonie — dans ses relations, ses choix, sa vie.
-
-Mais derrière sa douceur se cache une complexité: ses hésitations ne sont pas de l’indécision, mais souvent le reflet d’une peur de blesser ou de se tromper. Diplomate dans l’âme, elle pèse le pour et le contre avec finesse, désamorce les tensions avant qu’elles n’éclatent, souvent sans que personne ne s’en rende compte.
-
-Elle aime le beau, mais aussi le juste. Elle choisit ses mots avec soin, déteste le conflit… mais peut se battre pour la paix. 
-    
-    La Balance, c’est l’art de rallier les autres, de mettre la paix là où il y a discorde. C’est l’élégance de penser… et de ressentir. Une véritable poétesse de la paix.": ""
+    "mots_cles": ["Équilibre", "Justice", "Diplomatie", "Harmonie", "Esthétique"],
+    "texte_detaille": "(23 septembre - 22 octobre) : Signe d'air, il reflète l'équilibre, la recherche de justice, la diplomatie et le goût pour l'harmonie esthétique.\\n\\nÉlégante, raffinée et profondément attachée à l’harmonie, la Balance cherche l’équilibre dans tous les aspects de sa vie. Signe d’Air gouverné par Vénus, elle charme autant qu’elle apaise. Portrait d’un signe qui fait danser le cœur et la raison.\\n\\nLa Balance est un signe d’élégance et de raffinement. Charmeuse et sensuelle, elle incarne l’art de l’équilibre entre le cœur et la raison. Signe d’Air gouverné par Vénus, elle est en quête constante d’harmonie — dans ses relations, ses choix, sa vie.\\n\\nMais derrière sa douceur se cache une complexité: ses hésitations ne sont pas de l’indécision, mais souvent le reflet d’une peur de blesser ou de se tromper. Diplomate dans l’âme, elle pèse le pour et le contre avec finesse, désamorce les tensions avant qu’elles n’éclatent, souvent sans que personne ne s’en rende compte.\\n\\nElle aime le beau, mais aussi le juste. Elle choisit ses mots avec soin, déteste le conflit… mais peut se battre pour la paix.\\n\\nLa Balance, c’est l’art de rallier les autres, de mettre la paix là où il y a discorde. C’est l’élégance de penser… et de ressentir. Une véritable poétesse de la paix."
   },
   "scorpion": {
     "titre": "Scorpion ♏",
-    "mots_cles": [],
-    "(23 octobre - 21 novembre) : Signe d'eau, il évoque l'intensité, le mystère, la passion, la transformation et une grande profondeur psychologique.
-    Mystérieux, magnétique, inoubliable… le Scorpion ne laisse jamais indifférent. Il semble connecté à des forces invisibles, capable de lire entre les lignes et de ressentir ce que les autres taisent. Intense et passionné, il vit chaque émotion à fond, avec une loyauté farouche et une capacité à renaître de ses cendres. Portrait d’un signe qui ne connaît pas la tiédeur…
-    
-    Le Scorpion est un signe qu’on n’oublie pas. Mystérieux, ténébreux, magnétique… il semble connecté à une énergie invisible, presque mystique. Signe d’Eau gouverné par Mars et Pluton, il ressent tout, devine tout - même ce qu’on cache, même ce qu’on tait.
-
-Le Scorpion ne craint pas la transformation. Il vit intensément, aime profondément, déteste totalement. Il ne connaît pas la tiédeur: c’est un passionné, un sensuel, un écorché vif. Il lit entre les lignes, voit derrière les masques. Son regard perce, son silence parle.
-
-Souvent mal compris, on le taxe de manipulateur, de jaloux, d’intense. Mais en vérité, il protège son cœur comme un trésor. Parce qu’il sait ce que ça coûte d’aimer. Parce qu’il a été blessé.
-    
-    Bref. le Scorpion, c’est le phénix du zodiaque. Il meurt mille fois… pour mieux renaître et se révéler.": ""
+    "mots_cles": ["Intensité", "Mystère", "Passion", "Transformation", "Profondeur"],
+    "texte_detaille": "(23 octobre - 21 novembre) : Signe d'eau, il évoque l'intensité, le mystère, la passion, la transformation et une grande profondeur psychologique.\\n\\nMystérieux, magnétique, inoubliable… le Scorpion ne laisse jamais indifférent. Il semble connecté à des forces invisibles, capable de lire entre les lignes et de ressentir ce que les autres taisent. Intense et passionné, il vit chaque émotion à fond, avec une loyauté farouche et une capacité à renaître de ses cendres. Portrait d’un signe qui ne connaît pas la tiédeur…\\n\\nLe Scorpion est un signe qu’on n’oublie pas. Mystérieux, ténébreux, magnétique… il semble connecté à une énergie invisible, presque mystique. Signe d’Eau gouverné par Mars et Pluton, il ressent tout, devine tout - même ce qu’on cache, même ce qu’on tait.\\n\\nLe Scorpion ne craint pas la transformation. Il vit intensément, aime profondément, déteste totalement. Il ne connaît pas la tiédeur: c’est un passionné, un sensuel, un écorché vif. Il lit entre les lignes, voit derrière les masques. Son regard perce, son silence parle.\\n\\nSouvent mal compris, on le taxe de manipulateur, de jaloux, d’intense. Mais en vérité, il protège son cœur comme un trésor. Parce qu’il sait ce que ça coûte d’aimer. Parce qu’il a été beige.\\n\\nBref. le Scorpion, c’est le phénix du zodiaque. Il meurt mille fois… pour mieux renaître et se révéler."
   },
   "sagittaire": {
     "titre": "Sagittaire ♐",
-    "mots_cles": [],
-    "(22 novembre - 21 décembre) : Signe de feu, il représente l'optimisme, l'aventure, la liberté, la quête de sens et la philosophie.
-    
-    Le Sagittaire est un feu follet joyeux, toujours en mouvement. Curieux, drôle, parfois sarcastique, il transforme la vie en terrain d’exploration. Il cherche la vérité derrière les apparences et rêve d’horizons lointains. Portrait d’un signe qui ne supporte ni les cages… ni les limites.
-    
-    Le Sagittaire est libre, curieux, flamboyant, drôle, limite sarcastique. Avec lui, la vie est une aventure.
-
-Signe de Feu gouverné par Jupiter, le Sagittaire avance, explore, questionne. Il cherche le sens derrière les apparences, et la vérité au-delà des frontières.
-
-Il déteste les cages, les limites., les gens qui pensent petit. Le Sagittaire vise haut. Il pense grand. Il réfléchit intensément. Il rêve d’horizons lointains, de rencontres improbables et de conversations qui durent toute la nuit.
-    
-    Le Sagittaire, c’est la flèche qui file droit vers le ciel pour percer les nuages. Il inspire. Il élève. Il veut tout découvrir. Et il nous rappelle que le monde est vaste… et rempli de possibles.": ""
+    "mots_cles": ["Optimisme", "Aventure", "Liberté", "Philosophie", "Flamboyant"],
+    "texte_detaille": "(22 novembre - 21 décembre) : Signe de feu, il représente l'optimisme, l'aventure, la liberté, la quête de sens et la philosophie.\\n\\nLe Sagittaire est un feu follet joyeux, toujours en mouvement. Curieux, drôle, parfois sarcastique, il transforme la vie en terrain d’exploration. Il cherche la vérité derrière les apparences et rêve d’horizons lointains. Portrait d’un signe qui ne supporte ni les cages… ni les limites.\\n\\nLe Sagittaire est libre, curieux, flamboyant, drôle, limite sarcastique. Avec lui, la vie est une aventure.\\n\\nSigne de Feu gouverné par Jupiter, le Sagittaire avance, explore, questionne. Il cherche le sens derrière les apparences, et la vérité au-delà des frontières.\\n\\nIl déteste les cages, les limites, les gens qui pensent petit. Le Sagittaire vise haut. Il pense grand. Il réfléchit intensément. Il rêve d’horizons lointains, de rencontres improbables et de conversations qui durent toute la nuit.\\n\\nLe Sagittaire, c’est la flèche qui file droit vers le ciel pour percer les nuages. Il inspire. Il élève. Il veut tout découvrir. Et il nous rappelle que le monde est vaste… et rempli de possibles."
   },
   "capricorne": {
     "titre": "Capricorne ♑",
-    "mots_cles": [],
-    "(22 décembre - 19 janvier) : Signe de terre, il incarne l'ambition, la patience, la persévérance, la rigueur et le sens des responsabilités. 
-    
-    Sérieux, loyal et déterminé, le Capricorne avance avec discrétion mais une vision claire. Signe de Terre gouverné par Saturne, il incarne la rigueur et la persévérance. Portrait d’un signe qui construit sa vie comme une œuvre d’art.
-    
-    Le Capricorne est un signe discret, mais profondément déterminé. Il avance sans faire de bruit, avec une direction bien définie. Signe de Terre gouverné par Saturne, il incarne la stabilité, la patience et la vision à long terme.
-
-Le Capricorne ne fait rien à moitié. Il bâtit sa vie comme une cathédrale: pierre par pierre, avec méthode et ambition. On le perçoit parfois comme froid ou distant, mais derrière ses silences se cache une loyauté profonde et un sens aigu des responsabilités.
-    
-    Bref, le Capricorne, c’est la montagne qu’on gravit lentement… mais une fois au sommet, la vue est spectaculaire!": ""
+    "mots_cles": ["Ambition", "Patience", "Persévérance", "Rigueur", "Loyauté"],
+    "texte_detaille": "(22 décembre - 19 janvier) : Signe de terre, il incarne l'ambition, la patience, la persévérance, la rigueur et le sens des responsabilités.\\n\\nSérieux, loyal et déterminé, le Capricorne avance avec discrétion mais une vision claire. Signe de Terre gouverné par Saturne, il incarne la rigueur et la persévérance. Portrait d’un signe qui construit sa vie comme une œuvre d’art.\\n\\nLe Capricorne est un signe discret, mais profondément déterminé. Il avance sans faire de bruit, avec une direction bien définie. Signe de Terre gouverné par Saturne, il incarne la stabilité, la patience et la vision à long terme.\\n\\nLe Capricorne ne fait rien à moitié. Il bâtit sa vie comme une cathédrale: pierre par pierre, avec méthode et ambition. On le perçoit parfois comme froid ou distant, mais derrière ses silences se cache une loyauté profonde et un sens aigu des responsabilités.\\n\\nBref, le Capricorne, c’est la montagne qu’on gravit lentement… mais une fois au sommet, la vue est spectaculaire!"
   },
   "verseau": {
     "titre": "Verseau ♒",
-    "mots_cles": [],
-    "(20 janvier - 18 février) : Signe d'air, il montre l'indépendance, l'originalité, l'innovation, l'esprit de liberté et la vision du futur.
-    
-    Original, indépendant et toujours en avance sur son temps, le Verseau ne suit pas les règles: il les transforme. Signe d’Air gouverné par Uranus, il incarne l’innovation et la liberté. Portrait d’un signe qui pense autrement.
-    
-    Le Verseau est un esprit libre, épris d’originalité et de nouveauté. Visionnaire dans l’âme, il ne suit pas les règles établies: il les invente ou les réinvente. Signe d’Air gouverné par Uranus, il pense différemment, aime surprendre et surtout… faire réfléchir.
-
-Le Verseau ne se conforme pas. Il rejette les conventions, les limites et les cases. Avec lui, attendez-vous à tout… sauf à la routine.
-    
-    Le Verseau, c’est le vent du futur. L’ami un peu fou, le collègue brillant, et l’humain… en constante évolution.": ""
+    "mots_cles": ["Indépendance", "Originalité", "Innovation", "Liberté", "Visionnaire"],
+    "texte_detaille": "(20 janvier - 18 février) : Signe d'air, il montre l'indépendance, l'originalité, l'innovation, l'esprit de liberté et la vision du futur.\\n\\nOriginal, indépendant et toujours en avance sur son temps, le Verseau ne suit pas les règles: il les transforme. Signe d’Air gouverné par Uranus, il incarne l’innovation et la liberté. Portrait d’un signe qui pense autrement.\\n\\nLe Verseau is un esprit libre, épris d’originalité et de nouveauté. Visionnaire dans l’âme, il ne suit pas les règles établies: il les invente ou les réinvente. Signe d’Air gouverné par Uranus, il pense différemment, aime surprendre et surtout… faire réfléchir.\\n\\nLe Verseau ne se conforme pas. Il rejette les conventions, les limites et les cases. Avec lui, attendez-vous à tout… sauf à la routine.\\n\\nLe Verseau, c’est le vent du futur. L’ami un peu fou, le collègue brillant, et l’humain… en constante évolution."
   },
   "poissons": {
     "titre": "Poissons ♓",
-    "mots_cles": [],
-    "Poissons (19 février - 20 mars) : Signe d'eau, il symbolise l'empathie, l'imagination, la spiritualité, la sensibilité artistique et le dévouement.
-    
-    Intuitif, sensible et profondément humain, le Poissons perçoit ce que les autres ne disent pas. Signe d’Eau gouverné par Neptune et Jupiter, il nage entre les mondes visibles et invisibles. Portrait d’un signe qui ressent avant de comprendre.
-    
-    Le Poissons est un être intuitif, sensible, et profondément humain. Il capte les émotions, les non-dits, les vibrations subtiles. Il aime plus qu’il ne le montre, ce qui peut parfois dérouter ceux qui l’entourent.
-
-Signe d’Eau gouverné par Neptune et Jupiter, le Poissons évolue dans les mondes invisibles. Grâce à Jupiter, il s’adapte facilement, se fond dans le décor comme un caméléon. Il plonge dans les profondeurs de son esprit, entre rêves, symboles et émotions. Il perçoit l’âme des choses… et parfois, s’y perd un peu.
-
-Son cœur est immense. Il veut tout comprendre, tout aimer, tout guérir. Ce n’est pas une faiblesse, mais bien sa plus grande force. 
-    
-    Le Poissons, c’est le poète du zodiaque. Le thérapeute. Le rêveur. Celui qui nous rappelle que la douceur… est aussi une force.": ""
+    "mots_cles": ["Empathie", "Imagination", "Spiritualité", "Sensibilité", "Intuition"],
+    "texte_detaille": "(19 février - 20 mars) : Signe d'eau, il symbolise l'empathie, l'imagination, la spiritualité, la sensibilité artistique et le dévouement.\\n\\nIntuitif, sensible et profondément humain, le Poissons perçoit ce que les autres ne disent pas. Signe d’Eau gouverné par Neptune et Jupiter, il nage entre les mondes visibles et invisibles. Portrait d’un signe qui ressent avant de comprendre.\\n\\nLe Poissons est un être intuitif, sensible, et profondément humain. Il capte les émotions, les non-dits, les vibrations subtiles. Il aime plus qu’il ne le montre, ce qui peut parfois dérouter ceux qui l’entourent.\\n\\nSigne d’Eau gouverné par Neptune et Jupiter, le Poissons évolue dans les mondes invisibles. Grâce à Jupiter, il s’adapte facilement, se fond dans le décor comme un caméléon. Il plonge dans les profondeurs de son esprit, entre rêves, symboles et émotions. Il perçoit l’âme des choses… et parfois, s’y perd un peu.\\n\\nSon cœur est immense. Il veut tout comprendre, tout aimer, tout guérir. Ce n’est pas une faiblesse, mais bien sa plus grande force.\\n\\nLe Poissons, c’est le poète du zodiaque. Le thérapeute. Le rêveur. Celui qui nous rappelle que la douceur… est aussi une force."
   }
 }
