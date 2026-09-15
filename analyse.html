@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Analyse Astrologique Poussée</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #0b0c10;
+            color: #c5c6c7;
+            margin: 0;
+            padding: 20px;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: #1f2833;
+            padding: 30px;
+            border-radius: 12px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.5);
+        }
+        h1, h2, h3, h4 { color: #66fcf1; text-align: center; }
+        
+        .form-groupe {
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+            margin-bottom: 25px;
+        }
+        label { font-weight: bold; color: #45f3ff; }
+        select {
+            padding: 12px;
+            border-radius: 6px;
+            background: #0b0c10;
+            color: #fff;
+            border: 1px solid #45f3ff;
+            font-size: 16px;
+            cursor: pointer;
+        }
+        button {
+            padding: 15px;
+            background: #66fcf1;
+            color: #0b0c10;
+            border: none;
+            border-radius: 6px;
+            font-size: 18px;
+            font-weight: bold;
+            cursor: pointer;
+            transition: 0.3s;
+            margin-top: 10px;
+        }
+        button:hover { background: #45f3ff; transform: translateY(-2px); }
+
+        .bloc-analyse-astrale { margin-top: 40px; }
+        .recapitulatif-configuration {
+            background: #0b0c10;
+            padding: 15px;
+            border-radius: 8px;
+            border-left: 5px solid #66fcf1;
+            margin-bottom: 25px;
+        }
+        .fiche-astrale {
+            background: #2a3543;
+            padding: 20px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            border: 1px solid #394b61;
+        }
+        .tag {
+            display: inline-block;
+            background: #66fcf1;
+            color: #0b0c10;
+            padding: 4px 10px;
+            border-radius: 20px;
+            font-size: 12px;
+            font-weight: bold;
+            margin-right: 5px;
+            margin-top: 5px;
+        }
+        .contenu-fiche p { line-height: 1.6; margin-bottom: 12px; text-align: justify; }
+        .chargement { text-align: center; font-style: italic; color: #66fcf1; }
+        .erreur-affichage { background: #721c24; color: #f8d7da; padding: 15px; border-radius: 6px; text-align: center; }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>🌌 Analyse Poussée</h1>
+    <p style="text-align: center;">Sélectionnez vos configurations pour générer votre interprétation complète.</p>
+
+    <div class="form-groupe">
+        <label for="select-planete">🪐 Choisissez une Planète :</label>
+        <select id="select-planete">
+            <option value="soleil">Soleil ☀️</option>
+            <option value="lune">Lune 🌙</option>
+            <option value="mercure">Mercure ☿️</option>
+            <option value="venus">Vénus ❤️</option>
+            <option value="mars">Mars 💥</option>
+            <option value="jupiter">Jupiter ♃</option>
+            <option value="saturne">Saturne ♄</option>
+        </select>
+
+        <label for="select-signe">⚖️ Choisissez un Signe :</label>
+        <select id="select-signe">
+            <option value="belier">Bélier ♈</option>
+            <option value="taureau">Taureau ♉</option>
+            <option value="gmeaux">Gémeaux ♊</option>
+            <option value="cancer">Cancer ♋</option>
+            <option value="lion">Lion ♌</option>
+            <option value="vierge">Vierge ♍</option>
+            <option value="balance">Balance ⚖️</option>
+            <option value="scorpion">Scorpion ♏</option>
+            <option value="sagittaire">Sagittaire ♐</option>
+            <option value="capricorne">Capricorne ♑</option>
+            <option value="verseau">Verseau ♒</option>
+            <option value="poissons">Poissons ♓</option>
+        </select>
+
+        <label for="select-maison">🏠 Choisissez une Maison :</label>
+        <select id="select-maison">
+            <option value="maison_1">Maison 1 🧭</option>
+            <option value="maison_2">Maison 2 💎</option>
+            <option value="maison_3">Maison 3 🗣️</option>
+            <option value="maison_4">Maison 4 🏠</option>
+            <option value="maison_5">Maison 5 🌐</option>
+            <option value="maison_6">Maison 6 🛠️</option>
+            <option value="maison_7">Maison 7 🤝</option>
+            <option value="maison_8">Maison 8 🔍</option>
+            <option value="maison_9">Maison 9 ✈️</option>
+            <option value="maison_10">Maison 10 👑</option>
+            <option value="maison_11">Maison 11 👥</option>
+            <option value="maison_12">Maison 12 🧘</option>
+        </select>
+
+        <button onclick="genererAnalyse()">🔮 Lancer l'analyse</button>
+    </div>
+
+    <div id="zone-interpretation"></div>
+</div>
+
+<script>
+async function genererAnalyse() {
+    const planeteChoisie = document.getElementById('select-planete').value;
+    const signeChoisi = document.getElementById('select-signe').value;
+    const maisonChoisie = document.getElementById('select-maison').value;
+    const zoneAffichage = document.getElementById('zone-interpretation');
+
+    zoneAffichage.innerHTML = "<p class='chargement'>Calcul de votre configuration astrale en cours...</p>";
+
+    try {
+        // Chargement direct des fichiers JSON situés à la racine
+        const [reponsePlanetes, reponseSignes, reponseMaisons] = await Promise.all([
+            fetch('./planetes.json'),
+            fetch('./signes.json'),
+            fetch('./maisons.json')
+        ]);
+
+        if (!reponsePlanetes.ok || !reponseSignes.ok || !reponseMaisons.ok) {
+            throw new Error("Erreur lors du chargement des fichiers de données.");
+        }
+
+        const planetes = await reponsePlanetes.json();
+        const signes = await reponseSignes.json();
+        const maisons = await reponseMaisons.json();
+
+        const donneesPlanete = planetes[planeteChoisie];
+        const donneesSigne = signes[signeChoisi];
+        const donneesMaison = maisons[maisonChoisie];
+
+        const formaterTexte = (texteBrut) => {
+            return texteBrut
+                .split('\\n')
+                .map(paragraphe => paragraphe.trim() ? `<p>${paragraphe.trim()}</p>` : '')
+                .join('');
+        };
+
+        zoneAffichage.innerHTML = `
+            <div class="bloc-analyse-astrale">
+                <div class="recapitulatif-configuration">
+                    <h3>✨ ${donneesPlanete.titre} en ${donneesSigne.titre} en ${donneesMaison.titre}</h3>
+                </div>
+
+                <section class="fiche-astrale">
+                    <h4>${donneesPlanete.titre}</h4>
+                    <p>${donneesPlanete.mots_cles.map(mot => `<span class="tag">${mot}</span>`).join('')}</p>
+                    <div class="contenu-fiche">${formaterTexte(donneesPlanete.texte_detaille)}</div>
+                </section>
+
+                <section class="fiche-astrale">
+                    <h4>${donneesSigne.titre}</h4>
+                    <p>${donneesSigne.mots_cles.map(mot => `<span class="tag">${mot}</span>`).join('')}</p>
+                    <div class="contenu-fiche">${formaterTexte(donneesSigne.texte_detaille)}</div>
+                </section>
+
+                <section class="fiche-astrale">
+                    <h4>${donneesMaison.titre}</h4>
+                    <p>${donneesMaison.mots_cles.map(mot => `<span class="tag">${mot}</span>`).join('')}</p>
+                    <div class="contenu-fiche">${formaterTexte(donneesMaison.texte_detaille)}</div>
+                </section>
+            </div>
+        `;
+
+    } catch (erreur) {
+        console.error(erreur);
+        zoneAffichage.innerHTML = `
+            <div class="erreur-affichage">
+                ⚠️ Erreur de chargement. Assurez-vous que vos fichiers signes.json, planetes.json et maisons.json sont bien enregistrés au même niveau que cette page.
+            </div>
+        `;
+    }
+}
+</script>
+
+</body>
+</html>
