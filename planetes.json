@@ -1,79 +1,37 @@
 {
   "soleil": {
     "titre": "Soleil ☀️",
-    "mots_cles": [],
-    "•	🆔 Identité : Soleil (☉️) | 🌌 Nature : Luminaire diurne, Chaud & Sec | 🔥 Signe gouverné : Lion (Feu Fixe).
-•	👑 Dignités : Domicile : Lion | Exaltation : Bélier | Exil : Verseau | Chute : Balance
-•	🔑 Mots-clés : Vitalité, essence, rayonnement, centre, fil conducteur, identité, authenticité, expression créative.
-•	🧠 Fonction Psychologique : Il incarne le cœur de la personnalité, la volonté consciente et la quête de sens. C'est le moteur central, le héros de l'histoire qui cherche à s'incarner pleinement et à rayonner sa vérité.
-•	✨ Expression Lumineuse : Magnanimité, générosité naturelle, estime de soi saine et ancrée, courage d'être soi-même, capacité à inspirer et à réchauffer son entourage sans effort.
-•	🕳️ Expression Sombre (Ombre) : Égocentrisme aveugle, orgueil déplacé, tyrannie, besoin compulsif d'être le centre de l'attention pour valider son existence, vanité.
-": ""
+    "mots_cles": ["Vitalité", "Essence", "Rayonnement", "Centre", "Identité", "Authenticité", "Expression créative"],
+    "texte_detaille": "• 🆔 Identité : Soleil (☉️) | 🌌 Nature : Luminaire diurne, Chaud & Sec | 🔥 Signe gouverné : Lion (Feu Fixe).\\n• 👑 Dignités : Domicile : Lion | Exaltation : Bélier | Exil : Verseau | Chute : Balance\\n• 🔑 Mots-clés : Vitalité, essence, rayonnement, centre, fil conducteur, identité, authenticité, expression créative.\\n• 🧠 Fonction Psychologique : Il incarne le cœur de la personnalité, la volonté consciente et la quête de sens. C'est le moteur central, le héros de l'histoire qui cherche à s'incarner pleinement et à rayonner sa vérité.\\n• ✨ Expression Lumineuse : Magnanimité, générosité naturelle, estime de soi saine et ancrée, courage d'être soi-même, capacité à inspirer et à réchauffer son entourage sans effort.\\n• 🕳️ Expression Sombre (Ombre) : Égocentrisme aveugle, orgueil déplacé, tyrannie, besoin compulsif d'être le centre de l'attention pour valider son existence, vanité."
   },
   "lune": {
     "titre": "Lune 🌙",
-    "mots_cles": [],
-    "•	🆔 Identité : Lune (☽️) | 🌌 Nature : Luminaire nocturne, Humide & Froide | 🔥 Signe gouverné : Cancer (Eau Cardinal).
-•	👑 Dignités : Domicile : Cancer | Exaltation : Taureau | Exil : Capricorne | Chute : Scorpion
-•	🔑 Mots-clés : Incubation, réceptivité, mémoire, automatisme, besoin de sécurité, nutrition émotionnelle, ancrage intime.
-•	🧠 Fonction Psychologique : Représente nos réactions instinctives, notre inconscient et nos besoins émotionnels fondamentaux pour nous sentir en sécurité. Elle est la matrice qui absorbe, protège et nourrit notre vulnérabilité.
-•	✨ Expression Lumineuse : Empathie profonde, intuition juste, grande capacité d'accueil et de soutien psychologique, connexion harmonieuse avec le corps et les cycles de la vie.
-•	🕳️ Expression Sombre (Ombre) : Chantage affectif inconscient, dépendance ou codépendance émotionnelle, susceptibilité défensive (se retirer dans sa coquille), nostalgie paralysante ou refus de grandir.
-": ""
+    "mots_cles": ["Incubation", "Réceptivité", "Mémoire", "Automatisme", "Sécurité", "Nutrition émotionnelle", "Ancrage intime"],
+    "texte_detaille": "• 🆔 Identité : Lune (☽️) | 🌌 Nature : Luminaire nocturne, Humide & Froide | 🔥 Signe gouverné : Cancer (Eau Cardinal).\\n• 👑 Dignités : Domicile : Cancer | Exaltation : Taureau | Exil : Capricorne | Chute : Scorpion\\n• 🔑 Mots-clés : Incubation, réceptivité, mémoire, automatisme, besoin de sécurité, nutrition émotionnelle, ancrage intime.\\n• 🧠 Fonction Psychologique : Représente nos réactions instinctives, notre inconscient et nos besoins émotionnels fondamentaux pour nous sentir en sécurité. Elle est la matrice qui absorbe, protège et nourrit notre vulnérabilité.\\n• ✨ Expression Lumineuse : Empathie profonde, intuition juste, grande capacité d'accueil et de soutien psychologique, connexion harmonieuse avec le corps et les cycles de la vie.\\n• 🕳️ Expression Sombre (Ombre) : Chantage affectif inconscient, dépendance ou codépendance émotionnelle, susceptibilité défensive (se retirer dans sa coquille), nostalgie paralysante ou refus de grandir."
   },
   "mercure": {
     "titre": "Mercure ☿️",
-    "mots_cles": [],
-    "•	🆔 Identité : Mercure (☿️) | 🌌 Nature : Neutre/Ambivalent (s'adapte à la planète avec laquelle il s'associe) | 🔥 Signes gouvernés : Gémeaux (Air Mutable) et Vierge (Terre Mutable).
-•	👑 Dignités : Domicile : Gémeaux, Vierge | Exaltation : Vierge | Exil : Sagittaire, Poissons | Chute : Poissons
-•	🔑 Mots-clés : Cognition, transmission, traduction, fragmentation, curiosité, liens logiques, commerce, flexibilité.
-•	🧠 Fonction Psychologique : Gère la perception des données, la classification de l'information et les processus logiques de l'intellect. Il agit comme le pont, le traducteur et le messager entre notre monde intérieur et l'environnement extérieur.
-•	✨ Expression Lumineuse : Agilité mentale, discernement aiguisé, don pour la vulgarisation et l'apprentissage, communication fluide, sens de l'observation neutre et objectif.
-•	🕳️ Expression Sombre (Ombre) : Dispersion nerveuse, bavardage mental stérile (overthinking), mensonge opportuniste, rationalisation froide des émotions, indécision par surcharge d'informations.
-": ""
+    "mots_cles": ["Cognition", "Transmission", "Traduction", "Fragmentation", "Curiosité", "Liens logiques", "Commerce", "Flexibilité"],
+    "texte_detaille": "• 🆔 Identité : Mercure (☿️) | 🌌 Nature : Neutre/Ambivalent (s'adapte à la planète avec laquelle il s'associe) | 🔥 Signes gouvernés : Gémeaux (Air Mutable) et Vierge (Terre Mutable).\\n• 👑 Dignités : Domicile : Gémeaux, Vierge | Exaltation : Vierge | Exil : Sagittaire, Poissons | Chute : Poissons\\n• 🔑 Mots-clés : Cognition, transmission, traduction, fragmentation, curiosité, liens logiques, commerce, flexibilité.\\n• 🧠 Fonction Psychologique : Gère la perception des données, la classification de l'information et les processus logiques de l'intellect. Il agit comme le pont, le traducteur et le messager entre notre monde intérieur et l'environnement extérieur.\\n• ✨ Expression Lumineuse : Agilité mentale, discernement aiguisé, don pour la vulgarisation et l'apprentissage, communication fluide, sens de l'observation neutre et objectif.\\n• 🕳️ Expression Sombre (Ombre) : Dispersion nerveuse, bavardage mental stérile (overthinking), mensonge opportuniste, rationalisation froide des émotions, indécision par surcharge d'informations."
   },
   "venus": {
     "titre": "Vénus ❤️",
-    "mots_cles": [],
-    "•	🆔 Identité : Vénus (♀️) | 🌌 Nature : Bénéfique nocturne (tradition), Humide & Tempérée | 🔥 Signes gouvernés : Taureau (Terre Fixe) et Balance (Air Cardinal).
-•	👑 Dignités : Domicile : Taureau, Balance | Exaltation : Poissons | Exil : Scorpion, Bélier | Chute : Vierge
-•	🔑 Mots-clés : Attraction, harmonisation, système de valeurs, désirs, mode de liaison, esthétique, estime de soi.
-•	🧠 Fonction Psychologique : Elle régit notre capacité à évaluer ce qui est beau, bon ou désirable, ainsi que notre façon de nous lier harmonieusement aux autres. C'est le principe de l'attraction et de la pacification sociale.
-•	✨ Expression Lumineuse : Capacité à créer de l'harmonie, diplomatie innée, sens artistique développé, générosité relationnelle, paix intérieure, gratitude et amour inconditionnel.
-•	🕳️ Expression Sombre (Ombre) : People-pleasing compulsif (s'oublier pour plaire), évitement toxique des vérités inconfortables, superficialité, dépendance affective, paresse matérielle, manipulation par le charme.
-": ""
+    "mots_cles": ["Attraction", "Harmonisation", "Valeurs", "Désirs", "Esthétique", "Estime de soi"],
+    "texte_detaille": "• 🆔 Identité : Vénus (♀️) | 🌌 Nature : Bénéfique nocturne (tradition), Humide & Tempérée | 🔥 Signes gouvernés : Taureau (Terre Fixe) et Balance (Air Cardinal).\\n• 👑 Dignités : Domicile : Taureau, Balance | Exaltation : Poissons | Exil : Scorpion, Bélier | Chute : Vierge\\n• 🔑 Mots-clés : Attraction, harmonisation, systeme de valeurs, désirs, mode de liaison, esthétique, estime de soi.\\n• 🧠 Fonction Psychologique : Elle régit notre capacité à évaluer ce qui est beau, bon ou désirable, ainsi que notre façon de nous lier harmonieusement aux autres. C'est le principe de l'attraction et de la pacification sociale.\\n• ✨ Expression Lumineuse : Capacité à créer de l'harmonie, diplomatie innée, sens artistique développé, générosité relationnelle, paix intérieure, gratitude et amour inconditionnel.\\n• 🕳️ Expression Sombre (Ombre) : People-pleasing compulsif (s'oublier pour plaire), évitement toxique des vérités inconfortables, superficialité, dépendance affective, paresse matérielle, manipulation par le charme."
   },
   "mars": {
     "titre": "Mars 💥",
-    "mots_cles": [],
-    "•	🆔 Identité : Mars (♂️) | 🌌 Nature : Maléfique nocturne (tradition), Chaud & Sec | 🔥 Signes gouvernés : Bélier (Feu Cardinal) et Scorpion (Eau Fixe).
-•	👑 Dignités : Domicile : Bélier, Scorpion | Exaltation : Capricorne | Exil : Balance, Taureau | Chute : Cancer
-•	🔑 Mots-clés : Action, impulsion, libido, trancher, séparation, défense de soi, conquête, courage.
-•	🧠 Fonction Psychologique : Représente le moteur de l'action, l'énergie vitale brute et la capacité à dire "Je veux" ou "Je refuse". C'est la force nécessaire pour briser les obstacles, se détacher et s'affirmer.
-•	✨ Expression Lumineuse : Courage physique et moral, résilience face à l'adversité, clarté d'intention, instinct de protection des plus faibles, capacité à surmonter les crises.
-•	🕳️ Expression Sombre (Ombre) : Violence gratuite, impatience destructrice, colère impulsive et disproportionnée, susceptibilité à fleur de peau, esprit de compétition toxique (gagner à tout prix, écraser l'autre).
-": ""
+    "mots_cles": ["Action", "Impulsion", "Libido", "Trancher", "Séparation", "Défense de soi", "Conquête", "Courage"],
+    "texte_detaille": "• 🆔 Identité : Mars (♂️) | 🌌 Nature : Maléfique nocturne (tradition), Chaud & Sec | 🔥 Signes gouvernés : Bélier (Feu Cardinal) et Scorpion (Eau Fixe).\\n• 👑 Dignités : Domicile : Bélier, Scorpion | Exaltation : Capricorne | Exil : Balance, Taureau | Chute : Cancer\\n• 🔑 Mots-clés : Action, impulsion, libido, trancher, séparation, défense de soi, conquête, courage.\\n• 🧠 Fonction Psychologique : Représente le moteur de l'action, l'énergie vitale brute et la capacité à dire \\\"Je veux\\\" ou \\\"Je refuse\\\". C'est la force nécessaire pour briser les obstacles, se détacher et s'affirmer.\\n• ✨ Expression Lumineuse : Courage physique et moral, résilience face à l'adversité, clarté d'intention, instinct de protection des plus faibles, capacité à surmonter les crises.\\n• 🕳️ Expression Sombre (Ombre) : Violence gratuite, impatience destructrice, colère impulsive et disproportionnée, susceptibilité à fleur de peau, esprit de compétition toxique (gagner à tout prix, écraser l'autre)."
   },
   "jupiter": {
     "titre": "Jupiter ♃",
-    "mots_cles": [],
-    "•	🆔 Identité : Jupiter (♃️) | 🌌 Nature : Bénéfique diurne (tradition), Chaud & Humide | 🔥 Signes gouvernés : Sagittaire (Feu Mutable) et Poissons (Eau Mutable).
-•	👑 Dignités : Domicile : Sagittaire, Poissons | Exaltation : Cancer | Exil : Gémeaux, Vierge | Chute : Capricorne
-•	🔑 Mots-clés : Expansion, cohérence, quête de sens, foi, intégration, lois universelles, abondance, vision globale.
-•	🧠 Fonction Psychologique : Représente notre capacité à donner du sens à nos expériences, à espérer et à synthétiser des concepts isolés en une philosophie de vie unifiée. C'est le principe de croissance et d'ouverture.
-•	✨ Expression Lumineuse : Optimisme constructif, sagesse bienveillante, tolérance d'esprit, grande générosité, capacité à voir les opportunités là où d'autres voient des impasses.
-•	🕳️ Expression Sombre (Ombre) : Dogmatisme rigide ("je détiens la seule vérité"), excès en tout genre (gourmandise, dépenses), promesses irréalistes par excès de confiance, déni de la réalité matérielle.
-": ""
+    "mots_cles": ["Expansion", "Cohérence", "Quête de sens", "Foi", "Intégration", "Abondance", "Vision globale"],
+    "texte_detaille": "• 🆔 Identité : Jupiter (♃️) | 🌌 Nature : Bénéfique diurne (tradition), Chaud & Humide | 🔥 Signes gouvernés : Sagittaire (Feu Mutable) et Poissons (Eau Mutable).\\n• 👑 Dignités : Domicile : Sagittaire, Poissons | Exaltation : Cancer | Exil : Gémeaux, Vierge | Chute : Capricorne\\n• 🔑 Mots-clés : Expansion, cohérence, quête de sens, foi, intégration, lois universelles, abondance, vision globale.\\n• 🧠 Fonction Psychologique : Représente notre capacité à donner du sens à nos expériences, à espérer et à synthétiser des concepts isolés en une philosophie de vie unifiée. C'est le principe de croissance et d'ouverture.\\n• ✨ Expression Lumineuse : Optimisme constructif, sagesse bienveillante, tolérance d'esprit, grande générosité, capacité à voir les opportunités là où d'autres voient des impasses.\\n• 🕳️ Expression Sombre (Ombre) : Dogmatisme rigide (\\\"je détiens la seule vérité\\\"), excès en tout genre (gourmandise, dépenses), promesses irréalistes par excès de confiance, déni de la réalité matérielle."
   },
   "saturne": {
     "titre": "Saturne ♄",
-    "mots_cles": [],
-    "•	🆔 Identité : Saturne (♄️) | 🌌 Nature : Maléfique diurne (tradition), Froid & Sec | 🔥 Signes gouvernés : Capricorne (Terre Cardinale) et Verseau (Air Fixe).
-•	👑 Dignités : Domicile : Capricorne, Verseau | Exaltation : Balance | Exil : Cancer, Lion | Chute : Bélier
-•	🔑 Mots-clés : Contraction, limites, structure, temps, responsabilité, intégrité, réalisme, détachement nécessaire.
-•	🧠 Fonction Psychologique : Incarne le principe de réalité, la confrontation aux limites physiques du temps et de la matière. Il nous pousse à structurer, à assumer nos choix, à élaguer le superflu et à développer notre propre autorité intérieure.
-•	✨ Expression Lumineuse : Discipline de fer, intégrité morale, patience face au temps, sens du devoir, sagesse basée sur l'expérience, capacité à construire des structures durables.
-•	🕳️ Expression Sombre (Ombre) : Pessimisme noir, rigidité mentale ou dogmatisme froid, avarice émotionnelle ou matérielle, peur paralysante de l'échec, culpabilité chronique, inhibition.
-": ""
+    "mots_cles": ["Contraction", "Limites", "Structure", "Temps", "Responsabilité", "Intégrité", "Réalisme", "Détachement"],
+    "texte_detaille": "• 🆔 Identité : Saturne (♄️) | 🌌 Nature : Maléfique diurne (tradition), Froid & Sec | 🔥 Signes gouvernés : Capricorne (Terre Cardinale) et Verseau (Air Fixe).\\n• 👑 Dignités : Domicile : Capricorne, Verseau | Exaltation : Balance | Exil : Cancer, Lion | Chute : Bélier\\n• 🔑 Mots-clés : Contraction, limites, structure, temps, responsabilité, intégrité, réalisme, détachement nécessaire.\\n• 🧠 Fonction Psychologique : Incarne le principe de réalité, la confrontation aux limites physiques du temps et de la matière. Il nous pousse à structurer, à assumer nos choix, à élaguer le superflu et à développer notre propre autorité intérieure.\\n• ✨ Expression Lumineuse : Discipline de fer, intégrité morale, patience face au temps, sens du devoir, sagesse basée sur l'expérience, capacité à construire des structures durables.\\n• 🕳️ Expression Sombre (Ombre) : Pessimisme noir, rigidité mentale ou dogmatisme froid, avarice émotionnelle ou matérielle, peur paralysante de l'échec, culpabilité chronique, inhibition."
   }
 }
