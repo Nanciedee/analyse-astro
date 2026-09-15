@@ -20,7 +20,7 @@
             border-radius: 12px;
             box-shadow: 0 4px 15px rgba(0,0,0,0.5);
         }
-        h1, h2, h3, h4 { color: #66fcf1; text-align: center; }
+        h1, h2, h3, h4 { color: #f39c12; text-align: center; }
         
         .form-groupe {
             display: flex;
@@ -28,20 +28,20 @@
             gap: 15px;
             margin-bottom: 25px;
         }
-        label { font-weight: bold; color: #45f3ff; }
+        label { font-weight: bold; color: #f1c40f; }
         select {
             padding: 12px;
             border-radius: 6px;
             background: #0b0c10;
             color: #fff;
-            border: 1px solid #45f3ff;
+            border: 1px solid #f39c12;
             font-size: 16px;
             cursor: pointer;
         }
         button {
             padding: 15px;
-            background: #66fcf1;
-            color: #0b0c10;
+            background: linear-gradient(135deg, #f39c12, #d35400);
+            color: #fff;
             border: none;
             border-radius: 6px;
             font-size: 18px;
@@ -50,26 +50,29 @@
             transition: 0.3s;
             margin-top: 10px;
         }
-        button:hover { background: #45f3ff; transform: translateY(-2px); }
+        button:hover { 
+            background: linear-gradient(135deg, #e67e22, #c0392b);
+            transform: translateY(-2px); 
+        }
 
         .bloc-analyse-astrale { margin-top: 40px; }
         .recapitulatif-configuration {
             background: #0b0c10;
             padding: 15px;
             border-radius: 8px;
-            border-left: 5px solid #66fcf1;
+            border-left: 6px solid #f39c12;
             margin-bottom: 25px;
         }
         .fiche-astrale {
-            background: #2a3543;
+            background: rgba(255, 255, 255, 0.03);
             padding: 20px;
             border-radius: 8px;
             margin-bottom: 20px;
-            border: 1px solid #394b61;
+            border: 1px solid rgba(255, 255, 255, 0.05);
         }
         .tag {
             display: inline-block;
-            background: #66fcf1;
+            background: #f1c40f;
             color: #0b0c10;
             padding: 4px 10px;
             border-radius: 20px;
@@ -78,8 +81,8 @@
             margin-right: 5px;
             margin-top: 5px;
         }
-        .contenu-fiche p { line-height: 1.6; margin-bottom: 12px; text-align: justify; }
-        .chargement { text-align: center; font-style: italic; color: #66fcf1; }
+        .contenu-fiche p { line-height: 1.6; margin-bottom: 12px; text-align: justify; color: #ddd; }
+        .chargement { text-align: center; font-style: italic; color: #f1c40f; }
         .erreur-affichage { background: #721c24; color: #f8d7da; padding: 15px; border-radius: 6px; text-align: center; }
     </style>
 </head>
@@ -149,7 +152,6 @@ async function genererAnalyse() {
     zoneAffichage.innerHTML = "<p class='chargement'>Calcul de votre configuration astrale en cours...</p>";
 
     try {
-        // Chargement direct des fichiers JSON situés à la racine
         const [reponsePlanetes, reponseSignes, reponseMaisons] = await Promise.all([
             fetch('./planetes.json'),
             fetch('./signes.json'),
